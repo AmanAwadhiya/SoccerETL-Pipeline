@@ -1,0 +1,7 @@
+pyarrow
+pandas
+requests
+sqlalchemy
+psycopg2-binary
+apache-airflow-providers-google
+google-cloud-bigquery
