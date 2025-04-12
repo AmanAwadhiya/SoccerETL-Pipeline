@@ -6,10 +6,6 @@ This project implements an end-to-end data pipeline designed to **analyze histor
 
 The data source used is from Kaggle [International football results from 1872 to 2017](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017). The core objective of this project is to explore the patterns and trends of own goals scored by different teams over the span of nearly 150 years.
 
-
-## Architecture
-![Architecture Diagram](images/architecture.png)
-
 #### Technology Stack
 
 - **Workflow Orchestration** with **Docker**
@@ -18,6 +14,9 @@ The data source used is from Kaggle [International football results from 1872 to
 - **Data Transformation** with **data build tool (dbt)**
 - **Infrastructure as Code** with **Terraform**
 - **Interactive Data Visualization** using **Looker**
+
+## Architecture
+![Architecture Diagram](images/architecture.png)
 
 ## Setup
 
